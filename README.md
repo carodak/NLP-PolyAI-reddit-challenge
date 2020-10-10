@@ -16,4 +16,4 @@ Realization: I implemented a logistic regression model that obtained an f1-score
 
 I tried to oversample my dataset with EDA method https://github.com/jasonwei20/eda_nlp but although it improved the f1_score with CV and my data (almost 90%), it did not generalize well on the unknown data provided for the challenge (63%).
 
-Personal note: A very nice little challenge that introduced me to NLP. If I had more time, I would have liked to explore another representation of the data with the word2vec algorithm for example.
+Personal note: A very nice little challenge that introduced me to NLP. If I had more time, I would have liked to explore another representation of the data with the word2vec algorithm for example. I spoke with the person who won the competition and I will definitely check out the Google pre-trained models for NLP!
